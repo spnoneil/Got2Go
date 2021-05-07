@@ -1,4 +1,4 @@
-# <div align="center">**CurrentlyUntitled Yelp Clone (less evil, for bathrooms)**</div>
+# <div align="center">**Got2Go, a Yelp Clone (only less evil, and for bathrooms)**</div>
 
 #### <div align="center">*A REACT Native mobile project, created for Epicodus coding school as a final capstone of the program*</div>
 
@@ -15,7 +15,7 @@ _A React Native mobile SPA, utilizing {TODO:database, MongoDB or Firestore} and 
 
 ## Setup/Installation Requirements
 
-* _TO COME_
+* _INSTALL INSTRUCTIONS TO COME, YOU **DON'T** WANT TO INSTALL THIS YET_
 
 ## Component Tree
 ![Component Tree](capstone.png)
@@ -23,17 +23,17 @@ _A React Native mobile SPA, utilizing {TODO:database, MongoDB or Firestore} and 
 ## Technologies Used
 
 * _JavaScript ES6 / REACT Native / Expo_
+* _Firebase / Firestore_
 * _VS Code 1.54.2_
-* _HTML5/CSS3/_
+* _HTML5/CSS3/Tailwind?_
 
 
 ## Known Bugs
 
-* _No known bugs_
+* _No known bugs, as its not real yet_
 
 ## Future implementation
-* _Full CRUD_
-* _Styling_
+* _Everything_
 
 
 ## License
@@ -41,4 +41,4 @@ _A React Native mobile SPA, utilizing {TODO:database, MongoDB or Firestore} and 
 
 ## Contact Information
 
-_Issues can be reported [here](https://github.com/spnoneil/CurrentlyUntitled/issues/new) on GitHub_
+_Issues can be reported [here](https://github.com/spnoneil/Got2Go/issues/new) on GitHub, though its QUITE rude to do so at this present state_

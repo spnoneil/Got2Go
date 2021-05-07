@@ -73,3 +73,8 @@ What additional tools, frameworks, libraries, APIs, or other resources will thes
 
 Is there anything else you'd like your instructor to know?
 Not at present... More than happy to talk about everything, in fact I would love to know your thoughts!"
+
+STRETCH GOALS (ongoing):
+
+- full iOS support
+- search by criteria

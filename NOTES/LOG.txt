@@ -10,3 +10,4 @@ Think I will focus primarily on developing for my phone/android... Now that the 
 2:20: research on MongoDB, comparing to Firebase
 ~commits~
 3:30: looks like Expo is incompatible with MongoDB Realm? Probably going Firebase
+4:40: mostly commits, heavy planning/research day... hard coding comes next
