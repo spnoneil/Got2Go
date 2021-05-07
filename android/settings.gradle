@@ -1,4 +1,4 @@
-rootProject.name = 'capstone'
+rootProject.name = 'got2go'
 
 apply from: '../node_modules/react-native-unimodules/gradle.groovy'
 includeUnimodulesProjects()

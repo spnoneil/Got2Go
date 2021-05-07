@@ -1,9 +1,9 @@
 {
-  "name": "capstone",
-  "displayName": "capstone",
+  "name": "got2go",
+  "displayName": "got2go",
   "expo": {
-    "name": "capstone",
-    "slug": "capstone",
+    "name": "got2go",
+    "slug": "got2go",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
