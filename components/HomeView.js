@@ -10,3 +10,14 @@ class HomeView extends Component {
     }
 }
 export default HomeView
+
+/*
+TODO: 
+
+intro/splash/etc
+sample reviews
+
+if (loggedin)
+  more robust reviews
+  new review form
+*/

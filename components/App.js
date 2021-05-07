@@ -1,8 +1,8 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import HomeView from './components/HomeView';
-import Header from './components/Header'
+import HomeView from './HomeView';
+import Header from './Header'
 
 export default function App() {
   return (
