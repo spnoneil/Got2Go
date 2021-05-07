@@ -1,0 +1,10 @@
+8:00 - 9:00ish : Set up environment, install create-react-native and android studio, general react native research
+9:00 - 10:00ish: Continue the installation / configuration saga; create virtual test devices
+10:21: THE STRUGGLE IS REAL; serious difficulty in creating AVD via android studio, complete with strange installation errors.
+11:03: still haven't figured out virtual device issues, however currently opening proj on own galaxy s20; success!(?)
+Think I will focus primarily on developing for my phone/android... Now that the environment is (relatively) set up, gonna run one more "test" then spend some time on component diagrams.
+10:52: live updates via mobile seemingly configured (yay port forwarding, I'm sure this is not the most secure setup for the future) 
+12:00: LUNCH
+1:00: Time is an illusion; lunchtime, doubly so
+2:00: finish brainstorm/diagram... will add to if needed, but hopefully enough to meet MVP at present
+2:20: research on MongoDB, comparing to Firebase
