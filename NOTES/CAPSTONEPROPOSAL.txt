@@ -1,0 +1,75 @@
+CAPSTONE IDEAS:
+
+Names:
+Doody Duty
+Got2Go
+GottaGo
+
+Public bathroom yelp:
+We don't like to talk about it, but everybody does it. Wouldn't it be great if you knew it was clean and safe?
+"when ya gotta, we gotcha"
+
+criteria:
+- cleanliness
+- safety
+- free / not free
+- public / private
+- 
+
+MOBILE ONLY?
+
+api:
+- google maps
+- 
+- (expo? react native?)
+
+languages/tools:
+- JS/Node
+- REACT Native 
+- Expo SDK
+- Firebase/Firestore
+
+
+chrome extension???
+library???
+
+
+To run your project, navigate to the directory and run one of the following npm commands.
+
+- cd capstone
+- npm run android
+- npm run ios # you need to use macOS to build the iOS project - use the Expo app if you need to do iOS development without a Mac
+- npm run web
+
+
+INITIAL EMAILED CAPSTONE PROPOSAL:
+"Name of Student:
+Scott O'Neil
+
+Name of Project:
+"CurrentlyUntitled," but I should be able to brainstorm something ridiculous
+
+Project's Purpose or Goal: (What will it do for users?)
+Allows users to login to an account, and via a map api (likely google) will allow them to "pin" locations of bathrooms, with info on public/private, cleanliness, safety, LGBTQ-friendliness, etc. Considering this will by nature need to be on-the-go, I will likely need to learn React Native and design this mobile-first.
+
+List the absolute minimum features the project requires to meet this purpose or goal:
+As a user, I want to log in and see my own and others reviews.
+As a user, I want to drop pins into a map to report the location of restrooms.
+..., I want to be able to review my locations on predetermined criteria, such as cleanliness.
+..., I want to be able to find locations nearby or in any given area.
+
+What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+1. REACT Native / JavaScript
+2. HTML / CSS
+3. Firebase / Firestore
+4. Google Maps API (or similar)
+
+If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+- Ultra slick styling
+- Increased CRUD functionality, able to delete own posts, etc.
+
+What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
+- Bootstrap or Tailwind for styling
+
+Is there anything else you'd like your instructor to know?
+Not at present... More than happy to talk about everything, in fact I would love to know your thoughts!"
