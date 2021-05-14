@@ -1,10 +1,13 @@
 import React from 'react'
-import { Text, Image } from 'react-native';
+import { Text, Image, Button } from 'react-native';
 import NavigationBar from 'react-native-navbar';
 
 const rightButtonConfig = {
-  title: <Text style={{flex: 2}}>New Bathroom</Text>,
-  handler: () => alert('hello!'),
+  title: <Button 
+      style={{flex: 3}}
+      title="New Bathroom"
+    />
+  // handler: () => alert('hello!'),
 };
  
 const titleConfig = {
