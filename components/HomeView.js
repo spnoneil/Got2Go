@@ -1,14 +1,37 @@
 import React, { Component } from 'react';
-import { Text } from 'react-native';
+import { StyleSheet, Text, View, SafeAreaView, Button } from 'react-native';
+import About from "./About";
+import firebase from 'firebase';
+
 class HomeView extends Component {
-    render() {
-        return (
-          <>
-          <Text>TEST TEXT</Text>
-          </>
-        );
-    }
+  state = { user: {} };
+  componentDidMount() {
+    firebase.auth().onAuthStateChanged((user) => {
+      if (user != null) {
+        this.setState({user: user});
+      }
+    })
+  }
+  render() {
+    return (
+      <SafeAreaView style={{ flex: 1 }}>
+        <View style={styles.container}>
+          <Text>{this.state.user.email}</Text>
+          <Button title="Log Off" onPress={() => {
+            firebase.auth().signOut();
+          }}/>
+        </View>
+      </SafeAreaView>
+    );
+  }
 }
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    alignItems: 'center',
+    justifyContent: 'center'
+  }
+});
 export default HomeView
 
 /*

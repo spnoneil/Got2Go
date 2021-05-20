@@ -5,7 +5,7 @@ function About() {
     return (
       <View>
         {/* TODO - about page */}
-        <Text>Got 2 Go will help you go, YADDA YADDA</Text>
+        <Text>Got 2 Go will help you go, YADDA YADDAssss</Text>
       </View>
     );
   }

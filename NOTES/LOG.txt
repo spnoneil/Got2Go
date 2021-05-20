@@ -1,3 +1,4 @@
+5/7/2021
 8:00 - 9:00ish : Set up environment, install create-react-native and android studio, general react native research
 9:00 - 10:00ish: Continue the installation / configuration saga; create virtual test devices
 10:21: THE STRUGGLE IS REAL; serious difficulty in creating AVD via android studio, complete with strange installation errors.
@@ -11,3 +12,10 @@ Think I will focus primarily on developing for my phone/android... Now that the 
 ~commits~
 3:30: looks like Expo is incompatible with MongoDB Realm? Probably going Firebase
 4:40: mostly commits, heavy planning/research day... hard coding comes next
+
+5/14/2021
+SEE GIT LOG
+11:00 - 12:00: more environment variable nonsense, updated java to attempt JAVA_HOME env variable to read, added variable manually, clean out harddrive a bit; maybe having HDD issues?
+1:00 - 2:30: followed along on a reactnative tutorial, hooking google maps into project
+
+5/17/2021
